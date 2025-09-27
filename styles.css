@@ -1,0 +1,12 @@
+a {
+    color: pink;
+    font-size:xx-large;
+    font-style:oblique;
+    font-weight: 900;
+}
+
+a:hover {
+    color: hotpink;
+    font-weight:bold;
+    font-weight: 900;
+}
